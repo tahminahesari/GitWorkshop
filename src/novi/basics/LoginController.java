@@ -1,8 +1,8 @@
 package novi.basics;
 
-public class LoginController1 {
+public class LoginController {
 
-    public LoginController1() {
+    public LoginController() {
         System.out.println("Hello Login");
 
     }

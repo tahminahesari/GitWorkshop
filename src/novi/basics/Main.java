@@ -6,7 +6,8 @@ public class Main {
 	// write your code here
         System.out.println("Hello Novi");
 
-        LoginController1 loginController = new LoginController1();
+        System.out.println();
+        LoginController loginController = new LoginController();
 
      }
 }
